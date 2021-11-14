@@ -1,0 +1,3 @@
+# This week 10 - overview:
+
+## TThis week we examine the use of strings and the String class. The .NET Framework String class gives us the capability to process strings (a string is basically an array of characters), determine the length of strings, copy, parse, concatenate and replace characters in strings. The StringBuilder class is another Framework class that gives us the ability to build strings dynamically. A string is made up of an array of characters and the methods and properties within the String class let us manipulate the arrays of characters that make up strings. As always we will also build on the previously covered content and explore some additional ways to build C# programs.

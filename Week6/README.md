@@ -1,0 +1,5 @@
+# This week 6 - overview:
+
+## This week and next week we will make a more in-depth study of methods. We had a brief introduction in week 2 when we had an overview of classes and class methods. Methods are used to modularize specific tasks and actions within a program. A method should accomplish one task and do it well and the use of methods makes it easy to write code for actions that will be required in multiple parts of a program as well as by other programs. Writing these tasks as methods and maintaining a standard library of methods makes reusability of code a reality. The using statements we see for various programs and examples provide your program with already written code, methods and functionality that makes it easier to write code. This week and next week's study will include static methods and variables, how a method is called and how values are returned, the call stack, the system random number generation method, as well as other method topics. As always, we will also build on the previously covered content and explore some additional ways to build C# programs.
+
+

@@ -1,0 +1,5 @@
+# This week 11 - overview:
+
+## This week we continue examining the use of strings and the String class. The .NET Framework String class gives us the capability to process strings (a string is basically an array of characters), determine the length of strings, copy, parse, concatenate and replace characters in strings. The StringBuilder class is another Framework class that gives us the ability to build strings dynamically. The string class gives us a lot of capabilities but the content of strings do not change, that is, they are immutable. The concatenation of strings actually creates a reference to a newly created string in memory. StringBuilder lets us create and manipulate dynamic or changeable (mutable) strings. Stringbuilder is a class and is used to create an object, so we will be using StringBuilder objects, class methods, and properties that we briefly covered in the first couple of weeks of class. As always we will also build on the previously covered content and explore some additional ways to build C# programs.
+
+
